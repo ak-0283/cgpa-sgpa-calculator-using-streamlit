@@ -7,6 +7,10 @@ This tool allows students to easily convert their **SGPA or CGPA** into **percen
 
 ---
 
+![SGPA & CGPA Calculator Screenshot](Screenshot_2025-08-29_213833.png)
+
+---
+
 ## 🚀 Features  
 - 🔄 Convert **SGPA → Percentage** or **CGPA → Percentage**  
 - 🎚️ User-friendly **slider input** for SGPA/CGPA selection  
